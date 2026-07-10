@@ -24,12 +24,12 @@ const kruthikReddy = {
   title: "Computer Science Student",
   bio: "Passionate about Java, Data Structures & Algorithms, Full-Stack Web Development, and Machine Learning",
   stack: {
-    languages: ["Java", "Python", "C", "C++", "SQL", "HTML5", "CSS3", "JavaScript"],
+    languages: ["Java", "Python", "C", "SQL", "HTML5", "CSS3", "JavaScript"],
     frontend: ["HTML5", "CSS3", "JavaScript", "React (learning)"],
-    backend: ["PHP", "Node.js (learning)"],
+    backend: ["Node.js (learning)"],
     database: ["MySQL"],
     machineLearning: ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn", "TensorFlow (learning)"],
-    tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA", "Eclipse", "Jupyter Notebook", "XAMPP", "Postman"],
+    tools: ["Git", "GitHub", "VS Code", "Jupyter Notebook"],
     cloud: ["Vercel", "GitHub Pages", "InfinityFree"],
   },
   launchedProjects: ["ShopSphere-Project", "Collabflow-Project"],
@@ -88,7 +88,7 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js)
+![Languages](https://skillicons.dev/icons?i=java,python,c,mysql,html,css,js)
 
 **Frontend**
 
@@ -96,7 +96,7 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 **Backend & Dev Tools**
 
-![Backend](https://skillicons.dev/icons?i=php,nodejs,mysql,git,githubactions,vscode,idea,eclipse,jupyter,postman)
+![Backend](https://skillicons.dev/icons?i=nodejs,mysql,git,githubactions,vscode,jupyter)
 
 **Cloud & Deployment**
 
