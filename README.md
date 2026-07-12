@@ -110,23 +110,17 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&theme=nord"/>
+</p>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true"/>
+## 🏆 Trophies
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=onedark&column=4&no-frame=true&no-bg=true"/>
+</p>
 
-</div>
-### 🏆 Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=onedark&no-frame=true&no-bg=true&column=4"/>
-
-</div>
 
 ### 📈 Activity Graph
 
