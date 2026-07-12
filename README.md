@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Kruthik%20Reddy&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Elmette%20Kruthik%20Reddy&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descSize=18"/>
 
 # Hi 👋 I'm Kruthik Reddy
 
