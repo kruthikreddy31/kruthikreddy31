@@ -108,33 +108,11 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=kruthikreddy31&theme=nord&border=7dd3fc&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=nord&no-frame=true&no-bg=true&column=7" alt="trophies"/>
-
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikreddy31&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" alt="activity graph"/>
-
-</div>
-
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+</p>
 ---
 
 ### 🤝 Connect With Me
