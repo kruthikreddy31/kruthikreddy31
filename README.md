@@ -108,15 +108,26 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"
+alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=12&cache_seconds=1800"
+alt="Top Languages"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kruthikreddy31&theme=nord_dark"/>
+<br><br>
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kruthikreddy31&theme=nord_dark"
+alt="Profile Details"/>
 
 </div>
 
