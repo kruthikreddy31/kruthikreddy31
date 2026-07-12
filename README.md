@@ -24,12 +24,12 @@ const kruthikReddy = {
   title: "Computer Science Student",
   bio: "Passionate about Java, Data Structures & Algorithms, Full-Stack Web Development, and Machine Learning",
   stack: {
-    languages: ["Java", "Python", "C", "SQL", "HTML5", "CSS3", "JavaScript"],
+    languages: ["Java", "Python", "C", "C++", "SQL", "HTML5", "CSS3", "JavaScript"],
     frontend: ["HTML5", "CSS3", "JavaScript", "React (learning)"],
-    backend: ["Node.js (learning)"],
+    backend: ["PHP", "Node.js (learning)"],
     database: ["MySQL"],
     machineLearning: ["Python", "NumPy", "Pandas", "Matplotlib", "Scikit-learn", "TensorFlow (learning)"],
-    tools: ["Git", "GitHub", "VS Code", "Jupyter Notebook"],
+    tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA", "Eclipse", "Jupyter Notebook", "XAMPP", "Postman"],
     cloud: ["Vercel", "GitHub Pages", "InfinityFree"],
   },
   launchedProjects: ["ShopSphere-Project", "Collabflow-Project"],
@@ -88,7 +88,7 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=java,python,c,mysql,html,css,js)
+![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html,css,js)
 
 **Frontend**
 
@@ -96,7 +96,7 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 **Backend & Dev Tools**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,mysql,git,githubactions,vscode,jupyter)
+![Backend](https://skillicons.dev/icons?i=php,nodejs,mysql,git,githubactions,vscode,idea,eclipse,jupyter,postman)
 
 **Cloud & Deployment**
 
@@ -108,19 +108,24 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&theme=nord"/>
-</p>
+<div align="center">
 
-## 🏆 Trophies
+<img src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=onedark&column=4&no-frame=true&no-bg=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=kruthikreddy31&theme=nord&border=7dd3fc&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=nord&no-frame=true&no-bg=true&column=7" alt="trophies"/>
+
+</div>
 
 ### 📈 Activity Graph
 
