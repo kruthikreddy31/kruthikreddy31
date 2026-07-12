@@ -8,43 +8,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Developer;Machine+Learning+Learner;Open+Source+Contributor"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kruthikreddy31&color=7dd3fc)
+<img src="https://komarev.com/ghpvc/?username=kruthikreddy31&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
 # 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Java, DSA and Full Stack Development
-- 🌱 Currently learning React, Node.js and Machine Learning
-- 🚀 Building real-world projects
-- 🎯 Preparing for Software Development Engineer roles
-
+- 🎓 B.Tech in Computer Science Engineering
+- 💻 Strong foundation in Java, Data Structures & Algorithms
+- 🌱 Currently exploring React, Node.js, Machine Learning & System Design
+- 🚀 Building scalable Full Stack applications
+- 🎯 Preparing for Software Development Engineer (SDE) roles
+- 🤝 Open to collaboration on open-source and innovative projects
 ---
 
 # 🚀 Featured Projects
-
-## 🛒 ShopSphere
-
-A complete MERN E-Commerce platform.
-
-### Tech Stack
-
-- React
-- Redux Toolkit
-- Node.js
-- Express
-- MongoDB
-- Stripe
-- JWT Authentication
-
-Repository:
-
-https://github.com/kruthikreddy31/ShopSphere-Project
-
----
 
 ## 📋 CollabFlow
 
@@ -59,13 +38,28 @@ A real-time Project Management SaaS inspired by Trello.
 - Tailwind CSS
 - Pusher
 
-Repository:
+🔗 **Repository:** [Collabflow](https://github.com/kruthikreddy31/Collabflow-Project)
 
-https://github.com/kruthikreddy31/Collabflow-Project
 
-Live:
+🔗 **Live:** [Collabflow-live](https://collabflow-eight.vercel.app/)
 
-https://collabflow-eight.vercel.app/
+---
+## 🛒 ShopSphere
+
+A complete MERN E-Commerce platform.
+
+### Tech Stack
+
+- React
+- Redux Toolkit
+- Node.js
+- Express
+- MongoDB
+- Stripe
+- JWT Authentication
+
+🔗 **Repository:** [ShopSphere](https://github.com/kruthikreddy31/ShopSphere-Project)
+
 
 ---
 
@@ -73,34 +67,36 @@ https://collabflow-eight.vercel.app/
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,mysql" />
+</p>
 
 ### Frontend
-
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 ### Backend
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,jupyter)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikreddy31&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,jupyter" />
 </p>
+
 ---
+
+
 
 ## 📈 GitHub Metrics
 
 <p align="center">
-<img src="./github-metrics.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/main/github-metrics.svg" width="100%">
 </p>
+
+---
 ---
 
 # 💻 LeetCode
@@ -142,9 +138,10 @@ https://collabflow-eight.vercel.app/
 ---
 
 <div align="center">
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer"/>
+
+</div>
