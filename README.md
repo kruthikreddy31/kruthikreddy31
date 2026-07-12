@@ -112,30 +112,19 @@ Production-ready, full-stack project management SaaS — Trello/Notion-style tea
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=nord&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"
-alt="GitHub Stats"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&langs_count=8&theme=nord&hide_border=true&border_radius=12&cache_seconds=1800"
-alt="Top Languages"/>
-
-<br><br>
-
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kruthikreddy31&theme=nord_dark"
-alt="Profile Details"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
 
 </div>
-
 ### 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=nord&no-frame=true&no-bg=true&column=7" alt="trophies"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=onedark&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
