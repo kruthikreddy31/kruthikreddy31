@@ -4,9 +4,9 @@
 
 # Hi 👋 I'm Kruthik Reddy
 
-### Computer Science Student | Java Developer | Full Stack Developer | ML Enthusiast
+### Computer Science Student | Aspiring  Full Stack Developer | ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Developer;Machine+Learning+Learner;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=DSA+Enthusiast;Aspiring+Full+Stack+Developer;Machine+Learning+Learner;Open+Source+Contributor"/>
 
 <img src="https://komarev.com/ghpvc/?username=kruthikreddy31&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
