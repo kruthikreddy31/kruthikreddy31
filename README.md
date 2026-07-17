@@ -222,16 +222,6 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 💻 Coding Profiles
 
 <p align="center">
