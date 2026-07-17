@@ -24,24 +24,30 @@ jobs:
 
           config_timezone: Asia/Kolkata
 
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
 
+          # Calendar
           plugin_isocalendar: yes
 
+          # Stars
           plugin_stars: yes
 
+          # Follow-up
           plugin_followup: yes
 
-          plugin_habits: yes
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-
+          # Featured repositories
           plugin_repositories: yes
           plugin_repositories_featured: ShopSphere-Project,Collabflow-Project
 
+          # Topics
           plugin_topics: yes
           plugin_topics_limit: 20
 
+          # Lines of code
           plugin_lines: yes
+
+          # Disable habits (fixes "Unexpected error")
+          plugin_habits: no
