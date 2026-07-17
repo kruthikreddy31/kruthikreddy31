@@ -19,30 +19,18 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
 
-          # Calendar / stars / followup
           plugin_isocalendar: yes
           plugin_stars: yes
           plugin_followup: yes
 
-          # Habits — trimmed down to avoid rate-limit/timeout errors
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-
-          # Repositories
           plugin_repositories: yes
           plugin_repositories_featured: ShopSphere-Project, Collabflow-Project
 
-          # Topics
           plugin_topics: yes
           plugin_topics_limit: 20
 
-          # Lines of code
           plugin_lines: yes
