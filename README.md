@@ -166,27 +166,7 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kruthikreddy31&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kruthikreddy31&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikreddy31&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 GitHub Metrics
 
