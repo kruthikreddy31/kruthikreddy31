@@ -121,13 +121,14 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 | Certification | Issued By | Domain |
 |---------------|-----------|--------|
 | 🤖 Claude for AI Prompt Engineering | Anthropic | Artificial Intelligence |
+| 🤖 Oracle Agentic AI Foundations | Oracle University | Artificial Intelligence |
 | ☁️ AWS Cloud Practitioner Essentials | Amazon Web Services | Cloud Computing |
 | 🔐 Introduction to Cybersecurity | Cisco | Cybersecurity |
 | 📊 Data Science Essentials with Python | Cisco | Data Science |
 | 📈 Data Analytics Job Simulation | Deloitte | Data Analytics |
 | 💼 Software Engineering Job Simulation | JPMorgan Chase & Co. | Software Engineering |
 
-> 📌 Continuously learning through industry-recognized certifications in Software Engineering, Cloud Computing, Artificial Intelligence, Data Science, and Cybersecurity.
+> 📌 Continuously learning through industry-recognized certifications in Artificial Intelligence, Software Engineering, Cloud Computing, Data Science, Cybersecurity, and Data Analytics.
 ---
 
 # 💻 Tech Stack
