@@ -171,9 +171,25 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 📈 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/main/github-metrics.svg" width="100%"/> </p>
 ---
-🐍 Contribution Activity
-<p align="center"> <img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/output/github-contribution-grid-snake.svg"/> </p>
+## 🐍 Contribution Activity
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
 ---
 
 # 📊 GitHub Activity Graph
