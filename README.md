@@ -127,7 +127,6 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 | 📊 [Data Science Essentials with Python](./certificates/certificates/Data_Science_Essentials_with_Python_certificate_kruthik0131-gmail-com_e5345ea1-e985-485a-86b3-8e1087b5d5a2.pdf) | Cisco | Data Science |
 | 📈 [Data Analytics Job Simulation](./certificates/certificates/Deloitte_Data_Analytics_Certificate.png) | Deloitte | Data Analytics |
 | 💼 [Software Engineering Job Simulation](./certificates/certificates/JP%20MORGAN%20SE%20CERTIFICATION.pdf) | JPMorgan Chase & Co. | Software Engineering |
-| 🧠 [AI/ML Certificate](./certificates/certificates/AI26OFA.jpg) | Intel | Artificial Intelligence & Machine Learning |
 
 > 📌 Continuously learning through industry-recognized certifications in Artificial Intelligence, Software Engineering, Cloud Computing, Data Science, Cybersecurity, and Data Analytics.
 ---
