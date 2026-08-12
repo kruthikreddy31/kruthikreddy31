@@ -170,8 +170,8 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 
 📈 GitHub Metrics
 <p align="center"> <img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/main/github-metrics.svg" width="100%"/> </p>
----
-## 🐍 Contribution Activity
+
+# 🐍 Contribution Activity
 
 <p align="center">
   <picture>
