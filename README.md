@@ -116,17 +116,18 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 | Certification | Issued By | Domain |
 |---|---|---|
-| 🤖 [Claude for AI Prompt Engineering](./certificates/claude-ai-prompt-engineering.pdf) | Anthropic | Artificial Intelligence |
-| 🤖 [Oracle Agentic AI Foundations](./certificates/oracle-agentic-ai-foundations.pdf) | Oracle University | Artificial Intelligence |
-| ☁️ [AWS Cloud Practitioner Essentials](./certificates/aws-cloud-practitioner-essentials.png) | Amazon Web Services | Cloud Computing |
-| 🔐 [Introduction to Cybersecurity](./certificates/introduction-to-cybersecurity.pdf) | Cisco | Cybersecurity |
-| 📊 [Data Science Essentials with Python](./certificates/data-science-essentials-python.pdf) | Cisco | Data Science |
-| 📈 [Data Analytics Job Simulation](./certificates/deloitte-data-analytics-job-simulation.png) | Deloitte | Data Analytics |
-| 💼 [Software Engineering Job Simulation](./certificates/jpmorgan-software-engineering-job-simulation.pdf) | JPMorgan Chase & Co. | Software Engineering |
+| 🤖 [Claude for AI Prompt Engineering](./certificates/certificates/claude_certificate.pdf) | Anthropic | Artificial Intelligence |
+| 🤖 [Oracle Agentic AI Foundations](./certificates/certificates/oraclecertificate.pdf) | Oracle University | Artificial Intelligence |
+| ☁️ [AWS Cloud Practitioner Essentials](./certificates/certificates/AWS_CP_Certificate.png) | Amazon Web Services | Cloud Computing |
+| 🔐 [Introduction to Cybersecurity](./certificates/certificates/Introduction_to_Cybersecurity_certificate_kruthik0131-gmail-com_888c8595-0b29-4e5e-8aab-6da16a1b5e45.pdf) | Cisco | Cybersecurity |
+| 📊 [Data Science Essentials with Python](./certificates/certificates/Data_Science_Essentials_with_Python_certificate_kruthik0131-gmail-com_e5345ea1-e985-485a-86b3-8e1087b5d5a2.pdf) | Cisco | Data Science |
+| 📈 [Data Analytics Job Simulation](./certificates/certificates/Deloitte_Data_Analytics_Certificate.png) | Deloitte | Data Analytics |
+| 💼 [Software Engineering Job Simulation](./certificates/certificates/JP%20MORGAN%20SE%20CERTIFICATION.pdf) | JPMorgan Chase & Co. | Software Engineering |
+| 🧠 [AI/ML Certificate](./certificates/certificates/AI26OFA.jpg) | Intel | Artificial Intelligence & Machine Learning |
 
 > 📌 Continuously learning through industry-recognized certifications in Artificial Intelligence, Software Engineering, Cloud Computing, Data Science, Cybersecurity, and Data Analytics.
 ---
