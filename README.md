@@ -168,28 +168,11 @@ https://github.com/kruthikreddy31/ShopSphere-Project
 ---
 
 
-
-# 📈 GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/main/github-metrics.svg" width="100%"/>
-
-</p>
-
+📈 GitHub Metrics
+<p align="center"> <img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/main/github-metrics.svg" width="100%"/> </p>
 ---
-
-# 💻 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/kruthik31/">
-
-<img src="https://leetcard.jacoblin.cool/kruthik31?theme=dark&font=Nunito&ext=heatmap"/>
-
-</a>
-
-</p>
+🐍 Contribution Activity
+<p align="center"> <img src="https://raw.githubusercontent.com/kruthikreddy31/kruthikreddy31/output/github-contribution-grid-snake.svg"/> </p>
 
 ---
 
